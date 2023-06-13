@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Martin-Portfolio/static/css/main.0ca208c6.css",
+    "main.js": "/Martin-Portfolio/static/js/main.dcc922f8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Martin-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/online-exam.png": "/Martin-Portfolio/static/media/online-exam.fcb4a173094a7164e68f.png",
+    "static/media/e-commerce.png": "/Martin-Portfolio/static/media/e-commerce.bd680e58fd47aab59dd4.png",
+    "static/media/mine.png": "/Martin-Portfolio/static/media/mine.e3ff14aadcf1c473cffc.png",
+    "static/media/Martin Martinez- Resume.pdf": "/Martin-Portfolio/static/media/Martin Martinez- Resume.786e2f7090474a9d4e9a.pdf",
+    "static/media/algobytes.png": "/Martin-Portfolio/static/media/algobytes.99936000b72c0b007f53.png",
+    "static/media/todo.png": "/Martin-Portfolio/static/media/todo.3cb8511fca1be271d43f.png",
+    "index.html": "/Martin-Portfolio/index.html",
+    "main.0ca208c6.css.map": "/Martin-Portfolio/static/css/main.0ca208c6.css.map",
+    "main.dcc922f8.js.map": "/Martin-Portfolio/static/js/main.dcc922f8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Martin-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca208c6.css",
+    "static/js/main.dcc922f8.js"
+  ]
+}
