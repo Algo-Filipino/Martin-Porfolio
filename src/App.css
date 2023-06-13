@@ -1,0 +1,65 @@
+/* App.css */
+
+/* General styles */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #26292B;
+  color: #FFFFFF;
+}
+
+
+.NaviagationBar{
+  position: sticky;
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .nav-links li {
+    margin: 10px 0;
+  }
+
+  .hamburger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    font-size: 24px;
+    cursor: pointer;
+  }
+
+  .nav-active {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #26292B;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    padding: 20px;
+  }
+
+  .nav-active li {
+    margin: 10px 0;
+  }
+
+  .home-content {
+    flex-direction: column;
+  }
+
+  .column {
+    flex: 1 1 100%;
+    margin-bottom: 20px;
+  }
+}
